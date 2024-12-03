@@ -1,0 +1,10 @@
+<resources>
+    <string name="book_playback_service_description">Summary playback service</string>
+
+    <string name="mock_title_book_1" translatable="false">Усе про укриття</string>
+    <string name="mock_keypoint_1" translatable="false">Як знайти безпечне укриття</string>
+    <string name="mock_keypoint_2" translatable="false">Як поводитися в укритті</string>
+    <string name="mock_keypoint_3" translatable="false">Якщо трапився обвал будинку</string>
+    <string name="mock_keypoint_4" translatable="false">Якщо дитина загубилася</string>
+    <string name="mock_keypoint_5" translatable="false">Як вберегти хатніх тварин</string>
+</resources>

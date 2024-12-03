@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_speed_0_8">0.8x</string>
+    <string name="title_speed_1">Normal</string>
+    <string name="title_speed_1_2">1.2x</string>
+    <string name="title_speed_1_5">1.5x</string>
+
+    <string name="placeholder_speed_x">%sx</string>
+    <string name="placeholder_title_speed_x">Speed %s</string>
+    <string name="placeholder_keypoint">Key point %s of %s</string>
+
+    <string name="label_playback_speed">Playback speed</string>
+    <string name="label_continue">Continue</string>
+
+    <string name="message_error">Something went wrong</string>
+</resources>
